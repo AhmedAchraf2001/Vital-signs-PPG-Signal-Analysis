@@ -15,7 +15,8 @@
 
 	    onsets : indices of detected pulse onsets
 
-
+## My Contribuation
+my contribution was about implementation the algorithm in Python programming language.
 
 
 ## Reference
@@ -28,4 +29,3 @@ A. N. Vest et al., 'An open source benchmarked toolbox for cardiovascular wavefo
 -   Several authors have contributed to the code (see below)
     
 -   Peter H. Charlton - did very little, just wrote this wrapper (which detects peaks given the onsets provided by the code)
-
